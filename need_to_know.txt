@@ -1,0 +1,36 @@
+When System.currentTimeMillis() (line 4) is [invoked].
+
+the variable is incremented or decremented by 1, then the new value of the variable is returned.
+
+the prefixes ++x and ??x are referred to, respectively, as 
+[the preincrement operator] and [the predecrement operator]; and the suffixes x++ and x?? are referred
+to, respectively, as [the postincrement operator] and [the postdecrement operator].
+
+The increment operator ++ and the decrement operator ?? can [be applied to] all integer and
+floating-point types.
+
+You can always [assign] a value to a numeric variable whose type supports a larger range of
+values;
+
+for instance, you can [assign] a long value to a float variable.
+
+Casting a variable of a type with a small range to a variable of a type with a larger range is
+known as [widening a type]. Casting a variable of a type with a large range to a variable of a
+type with a smaller range is known as [narrowing a type].
+
+The character data type, char, is used to [represent] a single character. A character literal is
+enclosed in single quotation marks.
+
+A string literal must be enclosed in [quotation marks]. A character literal is a single character
+enclosed in [single quotation marks]. So "A" is a string, and 'A' is a character.
+
+[Mapping] a character to its binary representation is called encoding.
+
+There are different ways to [encode] a character.
+
+[How characters are encoded] is defined by an encoding scheme.
+
+The Unicode standard therefore has been extended to allow up to 1,112,064 characters. Those characters that
+go beyond the original 16-bit limit are called [supplementary characters].
+
+
